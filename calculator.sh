@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Simple Calculator Script
-
+echo "hello"
 echo "Enter first number:"
 read num1
 
